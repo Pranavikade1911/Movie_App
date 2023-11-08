@@ -1,0 +1,19 @@
+.chore-list {
+     margin-top: 20px;
+     margin-bottom: 125px;
+}
+
+h3 {
+     margin: 44px;
+}
+
+.movie-chore-list {
+     list-style: none;
+     padding: 0;
+     margin-bottom: 110px;
+}
+
+
+.movie-chore-list-item {
+     margin: 5px 0;
+}

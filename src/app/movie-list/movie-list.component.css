@@ -1,0 +1,18 @@
+div {
+     margin: 25px;
+     padding: 10px;
+}
+
+/* Style the ordered list */
+ol {
+     list-style-type: decimal;
+}
+
+/* Style the list items */
+li {
+     margin-bottom: 125px;
+}
+
+h3{
+     margin: 15px;
+}
